@@ -4,6 +4,10 @@ title: Gravity Bridge
 
 ## Overview
 
+::: danger WARNING
+THIS PAGE IS DEPRECATED
+:::
+
 [Gravity Bridge](https://www.gravitybridge.net/) - an independent and credibly neutral Cosmos-SDK blockchain providing the entire SDK community with a neutral bridge to Ethereum and eventually all major EVM chains.
 
 The bridge currently supports bridging of CUDOS tokens between the Ethereum and Cudos ecosystems, the bridge will be able to support any ERC-20 or ERC-721 asset to be bridged in the future.
