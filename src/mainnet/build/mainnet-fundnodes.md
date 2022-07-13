@@ -186,9 +186,7 @@ cudos-noded tx staking create-validator --amount=$STAKE \
     --commission-max-rate="0.20" \
     --commission-max-change-rate="0.01" \
     --min-self-delegation="2000000000000000000000000" \
-    --gas="auto" \
     --gas-prices="5000000000000acudos" \
-    --gas-adjustment="1.80" \
     --keyring-backend="os" \
     -y
  ```
